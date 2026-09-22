@@ -12,3 +12,7 @@
 ![](../assets/Kubernetes-troubleshooting/img3.png)
 ![](../assets/Kubernetes-troubleshooting/img4.png)
 ![](../assets/Kubernetes-troubleshooting/img5.png)
+
+# mini-project 
+![](../assets/Kubernetes-troubleshooting/img7.png)
+![](../assets/Kubernetes-troubleshooting/img8.png)
