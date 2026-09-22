@@ -6,7 +6,11 @@ metadata:
 
 spec:
   selector:
+<<<<<<< HEAD
     app: web-ahsgdf
+=======
+    app: web-asd
+>>>>>>> f3076a5 (Kubernetes session-14)
 
   ports:
     - port: 80
