@@ -8,11 +8,7 @@ spec:
   project: default
 
   source:
-<<<<<<< HEAD
-    repoURL: https://github.com/Nency-Ravaliya/gitops-demo.git
-=======
-    repoURL: https://github.com/Yashwardhan-ed/DevOps.git 
->>>>>>> 975b8b8 (update)
+    repoURL: https://github.com/Yashwardhan-ed/DevOps.git
     targetRevision: main
     path: app
 
